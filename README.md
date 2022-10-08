@@ -1,3 +1,10 @@
+libRASCH provides a common interface for access to physiologic signals in a wide variety of formats, including several that are not supported by the WFDB software package. Currently, the following formats are supported: CFS, DasyLab, EDF+, ISHNE-Holter, MIT/AHA (WFDB) and Poly5/TMS32. The library is written in C and is available for Linux and Windows. The software also provides support for processing (e.g. beat detection in an ECG) and viewing the signals. This functionality and the access to the various file formats is realized with plugins.
+
+For further information, please write to Raphael Schneider.
+
+
+
+
 libRASCH Version 0.8.31
 ======================
 
